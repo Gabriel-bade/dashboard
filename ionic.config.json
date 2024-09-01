@@ -1,0 +1,8 @@
+{
+  "name": "Dashboard ",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "44f43daa"
+}
